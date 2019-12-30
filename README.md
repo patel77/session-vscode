@@ -1,6 +1,6 @@
 # session-vscode
 
-Session on vs code shortcuts and extentions
+Session on vs code shortcuts and extensions
 
 1.Shortcuts
 
@@ -92,7 +92,7 @@ find->add folder to workspace
 add
 
 
-3.extentions
+3.extensions
 1.open in browser
 2.remote wsl
 3.debugger for chrome
