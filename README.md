@@ -4,7 +4,7 @@ Session on vs code shortcuts and extentions
 
 1.Shortcuts
 
-        Common Shorcuts
+        Common Shortcuts
 
         1.show Command palette
         ctrl+shift+p
