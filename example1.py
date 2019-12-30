@@ -1,12 +1,16 @@
-def hello():
-    print("hello")
-def example1():
-    print("example1")
-    print("to demostrate the toggle line")
-    print("this is third line and line",
-    "blaw al fjklasd faslkj asdkljl asdlkjfa third",
-    "aldsjkja ladsjlfk ldkasjlfk lajdsflk lakjdl third")
-    hello()
+import os
+import math
+import datetime
+import flake8
 def example2():
-    print("example2")
-example1()
+    print("A civilian fact-finding team,\
+    which includes prominent human rights activists hello third-one\
+    like John Dayal, Kavita Krishnan and Harsh Mander,\
+    has claimed to have proof that violence during the\
+    agitation was incited by the state police and that\
+    the Muslims in the area were tortured.hello  third-one")
+    print("hello")
+    print("world")
+    print("news")
+    print("paper")
+example2()
