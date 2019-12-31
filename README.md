@@ -1,4 +1,4 @@
-# session-vscode
+# Session-VSCode
 
 Session on vs code shortcuts and extensions
 
