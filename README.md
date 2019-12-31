@@ -100,3 +100,7 @@ add
 5.formatter
 6.python
 7.beautify
+
+
+//4. setting virtual env for python
+//5. pep-8
