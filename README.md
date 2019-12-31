@@ -78,7 +78,7 @@ Session on vs code shortcuts and extensions
 
 Two things which makes Workspace different from standard folders -
 
-    Like the other answer you linked to, you can have workspace based settings
+    you can have workspace based settings
     In one Workspace you can open different folders which are not necessarily in the root folder which you open first.
 
 to have a workspace
